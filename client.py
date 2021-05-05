@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-import socket
 import sys
+import socket
 from pynput.keyboard import Listener, Key
 
 
